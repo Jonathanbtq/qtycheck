@@ -120,9 +120,6 @@ $formSetup->newItem('FASTMODULECHECK_MYPARAM6')->setAsEmailTemplate('thirdparty'
 // Setup conf for a selection of a secured key
 //$formSetup->newItem('FASTMODULECHECK_MYPARAM7')->setAsSecureKey();
 
-// Setup conf for a selection of a product
-$formSetup->newItem('FASTMODULECHECK_MYPARAM8')->setAsProduct();
-
 // Add a title for a new section
 $formSetup->newItem('NewSection')->setAsTitle();
 
